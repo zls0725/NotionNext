@@ -361,7 +361,7 @@ const CONFIG = {
   // 页面底部的行动呼吁模块
   STARTER_CTA_ENABLE: true,
   STARTER_CTA_TITLE: '还在等待什么？',
-  STARTER_CTA_TITLE_2: '联系我们？',
+  STARTER_CTA_TITLE_2: '联系我们',
   STARTER_CTA_DESCRIOTN:
     '了解海外业务，体验一对一的专业服务，我们将会为您私人订制专属服务',
   STARTER_CTA_BUTTON: true, // 是否显示按钮
